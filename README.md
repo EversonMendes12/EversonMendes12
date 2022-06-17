@@ -5,8 +5,10 @@ I am an Backend/open source developer proficient in Java/C++ and Lua. Throughout
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonMendes12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center">
-    <a  href="www.linkedin.com/in/eversonmendes301" alt="LinkedIn" target="_blank">
+    <a  href="https://www.linkedin.com/in/eversonmendes301" alt="LinkedIn" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a  href="https://github.com/EversonMendes12/" alt="GitHub" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a  href="https://wa.me/5543984458966" alt="WhatsApp" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a  href="https://www.instagram.com/mendes__everson/" alt="Instagram" target="_blank">
