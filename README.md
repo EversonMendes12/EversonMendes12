@@ -31,6 +31,11 @@ Atualmente cursando **segundo** sementre em análise e desenvolvimente de sistem
     - Alteração/criação de Sprites.
     - Criação de scripts feitas em Lua para controle e movimentação de mobs/players.
     
+    
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EversonMendes12.EversonMendes12&"  />
+</div>
+    
 <!--
 **EversonMendes12/EversonMendes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
