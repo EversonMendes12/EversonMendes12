@@ -1,4 +1,4 @@
-I am an Backend/open source developer proficient in Java/C++ and Lua. Throughout my career, I've created game engines, websites and development tools. Today I'm mainly focusing on learning the Java programming language.
+I am an Backend/open source student/developer proficient in Java/C++ and Lua. Throughout my career, I've created game engines, websites and development tools. Today I'm mainly focusing on learning the Java/Microservices programming language.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EversonMendes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
