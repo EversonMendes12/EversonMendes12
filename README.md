@@ -1,7 +1,5 @@
-I am an Backend/open source student/developer proficient in Java/C++ and Lua. Throughout my career, I've created game engines, websites and development tools. Today I'm mainly focusing on learning the Java/Microservices programming language.
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EversonMendes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EversonMendes12&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonMendes12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center">
@@ -20,17 +18,6 @@ I am an Backend/open source student/developer proficient in Java/C++ and Lua. Th
 ________________________________________________________________________________________________________________________________________________________
 
 Atualmente cursando **segundo** sementre em análise e desenvolvimente de sistemas.
-  
- **Focado no aprendizado e no autoconhecimento da linguagem Java.** 
-
-- Ultimos projetos upados ao Git: 
-  - Desenvolvimento de um WebSite para comercio.
-  - Desenvolvimento de uma API para controle de estacionamentos.
-  - Desenvolvimento de um servidor OtServer base Tibia [OpenSource]. 
-    - Alteração da source e resolvido bugs internos do server.
-    - Alteração/criação de Sprites.
-    - Criação de scripts feitas em Lua para controle e movimentação de mobs/players.
-    
     
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EversonMendes12.EversonMendes12&"  />
