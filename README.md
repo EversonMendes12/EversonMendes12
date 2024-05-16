@@ -17,8 +17,16 @@
 
 ________________________________________________________________________________________________________________________________________________________
 
-Atualmente cursando **segundo** sementre em análise e desenvolvimente de sistemas.
-    
+<div>
+  É recrutador?
+  <small>
+    Entre em contato através do 
+    <a href="https://wa.me/5543984458966" alt="WhatsApp" target="_blank">
+      Whatsapp
+    </a>, assim poderei liberar acesso aos meus repositórios privados.
+  </small>
+</div>
+<br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EversonMendes12.EversonMendes12&"  />
 </div>
